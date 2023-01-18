@@ -4,8 +4,6 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
 
 Este tutorial mostrará como criar um painel moderno de material Android simples e uma página de login e assinatura com código Adobe XD e XML.
 Para mais vídeos tutoriais impressionantes do Android, inscreva-se neste canal e não se esqueça de clicar no ícone do sino!
