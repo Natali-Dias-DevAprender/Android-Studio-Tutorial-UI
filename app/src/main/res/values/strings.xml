@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Designer de telas</string>
+    <string name="example_gmail_com">example@gmail.com</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="senha">********</string>
+    <string name="forget_your_password_recorvery_it">Forget Your password Recorvery it</string>
+    <string name="or_login_with">Or Login With</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="login">Login</string>
+    <string name="login_to_account">Login to Account</string>
+</resources>
