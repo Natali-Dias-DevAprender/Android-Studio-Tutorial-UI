@@ -1,7 +1,7 @@
 # Android-Studio-Tutorial-UI
 
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+  <a href="https://www.iloveimg.com/pt/download/g8d7kz4tn7cc0gn9tv43lyj715A0r8mpjctvAct968sw7pgjb5phvwf6kz806854t660l0vdsyly14h8lk4f4y2mbzf67q17pscnAtfzdb26hA8pz71b6xf3k8pnrtAfngppyqns27v27hmAsxnfj4cz6mmmpwqmwrnfp82yx0rzrlnry9j1/13" target="blank"><img src="https://www.iloveimg.com/pt/download/g8d7kz4tn7cc0gn9tv43lyj715A0r8mpjctvAct968sw7pgjb5phvwf6kz806854t660l0vdsyly14h8lk4f4y2mbzf67q17pscnAtfzdb26hA8pz71b6xf3k8pnrtAfngppyqns27v27hmAsxnfj4cz6mmmpwqmwrnfp82yx0rzrlnry9j1/13" width="200" alt="Tela inicial" /></a>
 </p>
 
 
