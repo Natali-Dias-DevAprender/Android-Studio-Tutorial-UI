@@ -7,5 +7,5 @@ Android Studio Tutorial Material Design Android Studio Modern tela do painel UI 
 - IU do painel móvel 
 - interface do usuário móvel
 <p align="center">
-  <a href="blob:https://pixlr.com/2b1dc9b5-68e6-4fd5-927a-445dd852b916" target="blank"><img src="blob:https://pixlr.com/2b1dc9b5-68e6-4fd5-927a-445dd852b916"" width="200" alt="Natali" /></a>
+  <a href="blob:https://discord.com/abb701b6-6fbe-4be8-b46e-66961bcaaa01" target="blank"><img src="blob:https://discord.com/abb701b6-6fbe-4be8-b46e-66961bcaaa01"" width="200" alt="Natali" /></a>
 </p>
